@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shida
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in UI/UX Design and Front-end Development
 - 🌱 I’m currently learning mobile app development
 - 💞️ I’m looking to collaborate on anything thats going to help boost my skill
 
